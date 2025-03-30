@@ -1,7 +1,7 @@
 # 🌱 Daily Wellness Habit Tracker
 
-This is a simple wellness app I built using React Native + Expo.  
-The goal was to make something that helps track small habits daily without feeling too serious — just something light to encourage consistency.  
+This is a simple wellness app I built using React Native + Expo.  The goal was to make something that helps track small habits daily without 
+feeling too serious just something light to encourage consistency.  
 
 ---
 
@@ -28,16 +28,19 @@ The goal was to make something that helps track small habits daily without feeli
 ## How To Run:
 ```bash
 npm install
+```
+```bash
 npx expo start
 ```
+
 - Then just scan the QR code using the **Expo Go App** or run it on web using w.
 
 ---
 
 ## Why I Made This:
-I wanted to build something practical and meaningful that helps users stay consistent with their daily habits.  
-It’s a simple app, but I focused on making it smooth, easy to use, and something I’d actually enjoy using myself.  
-I care about building things that are useful, clean, and make sense to real people this app is an example of that.
+- I wanted to build something practical and meaningful that helps users stay consistent with their daily habits.  
+- It’s a simple app, but I focused on making it smooth, easy to use, and something I’d actually enjoy using myself.  
+- I care about building things that are useful, clean, and make sense to real people this app is an example of that.
 
 ---
 
