@@ -25,7 +25,7 @@ The goal was to make something that helps track small habits daily without feeli
 
 ---
 
-## How to Run:
+## How To Run:
 ```bash
 npm install
 npx expo start
