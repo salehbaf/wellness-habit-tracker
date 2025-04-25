@@ -61,13 +61,14 @@ I care about building things that are:
 - Well-structured and clean under the hood
 
 ---
+
 ## 📸 Screenshot
 
 Here’s a quick look at the app in action:
 
 <img src="./habit-tracker-screenshot.png" alt="Daily Wellness Habit Tracker Screenshot" width="300" />
 
---
+---
 
 ## About Me:
 
