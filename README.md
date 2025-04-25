@@ -1,27 +1,40 @@
 # 🌱 Daily Wellness Habit Tracker
 
-This is a simple wellness app I built using React Native + Expo.  The goal was to make something that helps track small habits daily without 
-feeling too serious just something light to encourage consistency.  
+This is a simple mobile app I built using **React Native + Expo** to help users stay consistent with small daily habits.  
+It’s designed to be light, casual, and fun something that helps without feeling too serious or overwhelming.
+
 
 ---
 
 ## ✅ Features
-- Add your own habits (ex: drink water, meditate, take a walk)
-- Automatically shows a random motivational quote and greeting depending on the time of day
-- Emojis are automatically picked based on keywords like "water" → 💧, "walk" → 🌳, etc.
-- You can check habits off when you complete them (✔️)
-- Long press on a habit to delete it
-- Tracks your current streak
-- Saves everything locally on your device
+
+- Add your own custom habits (e.g., *drink water*, *meditate*, *take a walk*)
+- Displays a motivational quote + greeting based on the time of day
+- Automatically adds emojis to habits based on keywords (e.g., `"water"` → 💧)
+- Tap to check habits off as completed
+- Long-press to delete habits
+- Tracks current streak
+- All data saved locally with AsyncStorage
 
 ---
 
-## 📱 Built With
-- Built with React Native (Expo)
-- Uses React Hooks for state management
-- Stores data using AsyncStorage
-- Smooth little animations with LayoutAnimation
-- All styled manually with React Native's StyleSheet
+## 📋 Project Workflow
+
+This project followed an Agile-inspired workflow:
+
+- Created a backlog of core features and tasks
+- Planned iterations using simple issue tracking
+- Manually tested features at each stage
+- Documented decisions and architecture in this repo
+
+---
+
+## 🧠 Architecture Decisions
+
+- Chose React Native with Expo for fast mobile deployment and testing
+- Used local storage with AsyncStorage to avoid login/setup barriers
+- Avoided third-party UI kits to keep the app lightweight and customized
+- Designed all UI with accessibility and speed in mind
 
 ---
 
@@ -33,16 +46,23 @@ npm install
 npx expo start
 ```
 
-- Then just scan the QR code using the **Expo Go App** or run it on web using w.
+- Then just scan the QR code using the **Expo Go App**.
+- Or press w to run in the browser.
 
 ---
 
-## Why I Made This:
-- I wanted to build something practical and meaningful that helps users stay consistent with their daily habits.  
-- It’s a simple app, but I focused on making it smooth, easy to use, and something I’d actually enjoy using myself.  
-- I care about building things that are useful, clean, and make sense to real people this app is an example of that.
+## 🎯 Why I Built This
+I wanted to build something useful and real an app I’d actually use myself.
+This project helped me explore UI/UX thinking, local data handling, and managing a mini Agile process from start to finish.
+
+I care about building things that are:
+- Helpful
+- Easy to use
+- Well-structured and clean under the hood
 
 ---
 
 ## About Me:
-Made by Saleh Bafagih — passionate about building useful and user-friendly apps.
+
+Hi, I’m Saleh Bafagih a Computer Programming & Analysis student at Seneca College.
+I enjoy creating apps that solve everyday problems in simple, clean ways.
